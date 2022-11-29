@@ -22,9 +22,7 @@ Atividade do módulo:<br/>
 Exibir as informações na interface através de eventos
 
 
-
 https://user-images.githubusercontent.com/80107070/204042979-346f417f-af07-4b89-9272-d91d9a845067.mp4
 
 
-
-Repositório: https://github.com/adriano-Peretti/Heranca-Composicao
+Repositório: https://github.com/adriano-Peretti/Modulo08-09
