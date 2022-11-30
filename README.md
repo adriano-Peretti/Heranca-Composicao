@@ -6,7 +6,7 @@ Versão do Unity: **2021.3.9f1**<br/>
 ## Módulo 8 - **Herança & Composição**<br/>
 
 Atividade do módulo:<br/>
-Criar um character controler .<br/>
+Criar um character controler.<br/>
 Extender Character a outras classes como ork e elfo.<br/>
 
 CharacterControler<br/>
@@ -22,13 +22,16 @@ Ork<br/>
 ## Módulo 9 - **Events & Delegate**<br/>
 
 Atividade do módulo:<br/>
-Exibir as informações na interface através de eventos
+Exibir as informações na interface através de eventos.
 
 
 https://user-images.githubusercontent.com/80107070/204042979-346f417f-af07-4b89-9272-d91d9a845067.mp4
 
 
 ## Módulo 13 - **Polimorfismo & Scriptable Objects**<br/>
+
+Atividade do módulo:<br/>
+Aplicar interface na função de afiar a arma.
 
 ISharpen<br/>
 ![image](https://user-images.githubusercontent.com/80107070/204880566-2f927513-30b5-4aa3-bda4-563006629ffc.png)<br/>
@@ -45,4 +48,4 @@ Dagger<br/>
 Sword<br/>
 ![image](https://user-images.githubusercontent.com/80107070/204881138-01646fe4-b5a3-4f19-ae21-058a2f515dad.png)<br/>
 
-Repositório: https://github.com/adriano-Peretti/Heranca-Composicao
+Repositório: https://github.com/adriano-Peretti/Modulo08-09-13
